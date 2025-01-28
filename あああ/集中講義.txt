@@ -1,0 +1,24 @@
+マイクらのmodの一部
+UnityやUnreal engineのアセットストアや配布されているスクリプト
+何らかのゲームやアプリで使用できる追加要素のオープンソース（3Dモデルや要素のスクリプトとか）
+
+オープンソースとは
+誰でも自由に利用できるソフトウェアやシステムのことで、ソースコード（プログラムの設計図）が公開されています。
+製作者はそのソフトウェアに特定のライセンスを付与することで、利用者が守るべきルールを示します。
+このライセンスには、以下のような条件が含まれることがあります
+
+ソフトウェアの利用範囲や方法
+コードの改変や修正の可否
+修正版や派生版の配布条件
+
+オープンソースのソフトウェアは、自分が作成しているシステムやアプリケーションに組み込んで利用することが可能です。
+また、必要に応じてソースコードを変更したり、自分専用にカスタマイズしたりすることも許可されています。
+これにより、個人や企業、コミュニティが互いに協力して技術を発展させていくことが可能になります。
+
+ーオープンソースアプリケーションー
+・GIMP   https://github.com/GNOME/gimp
+・Blender   https://github.com/blender
+・VideoLAN   https://github.com/videolan
+・Meet Word Press   https://github.com/WordPress/WordPress
+・APACHE   https://github.com/apache/httpd
+・Audacity   https://github.com/audacity/audacity
